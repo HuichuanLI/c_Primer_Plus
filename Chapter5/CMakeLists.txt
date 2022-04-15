@@ -3,4 +3,4 @@ project(pointer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(auto_ptr test3.cpp)
+add_executable(auto_ptr test5.cpp)
