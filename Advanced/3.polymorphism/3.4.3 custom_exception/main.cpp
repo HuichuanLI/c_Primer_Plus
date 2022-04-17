@@ -1,4 +1,5 @@
 #include <iostream>
+#include <exception>
 using namespace std;
 
 class custom_exception : public exception

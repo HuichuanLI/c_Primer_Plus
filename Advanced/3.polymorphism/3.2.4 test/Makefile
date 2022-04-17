@@ -1,4 +1,3 @@
-SHELL=cmd.exe
 OBJ := $(wildcard *.cpp)
 
 main:
