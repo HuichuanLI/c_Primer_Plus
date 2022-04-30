@@ -38,3 +38,7 @@ Advanced/Chapter3/cmake-build-debug/
 Advanced/Chapter3/cmake-build-release/
 
 .DS_Store
+
+effective_cplus_plus/const/cmake-build-debug/
+
+effective_cplus_plus/const/cmake-build-release/
