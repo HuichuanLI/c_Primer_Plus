@@ -26,7 +26,7 @@ int main() {
     }
     checker_board.print();
     win = checker_board.IsWin();
-    if (win != 0) {
+      if (s != 0) {
       break;
     }
 
